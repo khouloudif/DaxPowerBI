@@ -30,11 +30,11 @@ This project uses **synthetic data generated in Python**, simulating real-world 
 - **Python**: For generating synthetic data.
 - **Pandas**: For data manipulation and preprocessing.
 
-## How to Use
-1. Clone the repository.
-2. Install necessary dependencies.
-3. Open the Power BI report to explore the insights.
+![Capture1](https://github.com/user-attachments/assets/68175eb4-9bb8-424b-a7f6-5f288266d874)
 
-## Contributing
-Feel free to open issues or create pull requests if you want to contribute to this project!
+![Capture2](https://github.com/user-attachments/assets/86b0d200-7374-4d25-9712-38a844dfa13f)
+
+![Capture3](https://github.com/user-attachments/assets/8cc9e9fa-7a1e-4838-b4c4-c29cd5100d5b)
+
+![Capture4](https://github.com/user-attachments/assets/db9be5bb-dcbb-4c8e-bc68-7ba021249fce)
 
